@@ -18,4 +18,5 @@ This is a **Coffee Shop Management App** built with **Flutter**. The app uses **
 - Connect with Spotify API: Fetch the list of songs currently playing in the coffee shop so customers can view and suggest tracks in real time.
 - Implement QR code scanning at tables: Allow customers to scan a QR code at their table to place orders directly from their phone, enhancing convenience and reducing wait time.
 
+## Warning
 ⚠️ *This project is for study purposes only.*⚠️ 
