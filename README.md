@@ -1,17 +1,14 @@
 # coffee_application
 
-A new Flutter project.
+This is a Coffee Shop Management App built with Flutter. The app uses Firebase Authentication for user login and Firestore to store and manage data in real time.
+- Customers can browse the menu, place orders, and track their order status.
+- Staff can manage and update orders efficiently.
 
-## Getting Started
-
-![Demo](https://global-sensors.com/wp-content/uploads/2021/07/test.jpg)
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Showcase/Overview
+![Asset](Showcase/Asset.jpg)
+![Color](Showcase/Color.jpg)
+![Cover](Showcase/Cover.jpg)
+![Typography](Showcase/Typography.jpg)
+![UI 1](Showcase/UI-1.jpg)
+![UI](Showcase/UI.jpg)
+![Wireframe](Showcase/Wireframe.jpg)
