@@ -5,10 +5,11 @@ This is a Coffee Shop Management App built with Flutter. The app uses Firebase A
 - Staff can manage and update orders efficiently.
 
 ## App Showcase/Overview
-![Asset](Showcase/Asset.jpg)
-![Color](Showcase/Color.jpg)
 ![Cover](Showcase/Cover.jpg)
+![Asset](Showcase/Asset.jpg)
 ![Typography](Showcase/Typography.jpg)
-![UI 1](Showcase/UI-1.jpg)
-![UI](Showcase/UI.jpg)
+![Color](Showcase/Color.jpg)
 ![Wireframe](Showcase/Wireframe.jpg)
+![UI](Showcase/UI.jpg)
+![UI 1](Showcase/UI-1.jpg)
+And more <3
