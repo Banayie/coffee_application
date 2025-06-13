@@ -13,7 +13,7 @@ This is a **Coffee Shop Management App** built with **Flutter**. The app uses **
 ![UI](Showcase/UI.jpg)
 ![UI 1](Showcase/UI-1.jpg)
 
-#Future Development / Roadmap
+## Future Development / Roadmap
 - Integrate cashless payment options: Support for e-wallets (e.g. Momo, ZaloPay, VNPay) and bank transfers to provide flexible and secure checkout for customers.
 - Connect with Spotify API: Fetch the list of songs currently playing in the coffee shop so customers can view and suggest tracks in real time.
 - Implement QR code scanning at tables: Allow customers to scan a QR code at their table to place orders directly from their phone, enhancing convenience and reducing wait time.
