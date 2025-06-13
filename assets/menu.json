@@ -1,0 +1,125 @@
+[
+  {
+    "title": "CÀ PHÊ TRUYỀN THỐNG",
+    "items": [
+      {
+        "id": "latte_nong",
+        "name": "Latte Nóng",
+        "price": 55000,
+        "image": "assets/images/latte_nong.jpg"
+      },
+      {
+        "id": "latte_da",
+        "name": "Latte Đá",
+        "price": 55000,
+        "image": "assets/images/latteda.png"
+      },
+      {
+        "id": "ca_phe_da",
+        "name": "Cà Phê Đá",
+        "price": 40000,
+        "image": "assets/images/capheda.png"
+      },
+      {
+        "id": "ca_phe_sua_da",
+        "name": "Cà Phê Sữa Đá",
+        "price": 40000,
+        "image": "assets/images/caphesua.png"
+      },
+      {
+        "id": "ca_phe_americano",
+        "name": "Cà Phê Americano",
+        "price": 40000,
+        "image": "assets/images/americano.png"
+      }
+    ]
+  },
+  {
+    "title": "TRÀ TRÁI CÂY - TRÀ SỮA",
+    "items": [
+      {
+        "id": "tra_sua_tran_chau",
+        "name": "Trà Sữa Trân Châu",
+        "price": 40000,
+        "image": "assets/images/tra-sua-tran-chau.png"
+      },
+      {
+        "id": "tra_alisan_trai_cay",
+        "name": "Trà Alisan Trái Cây",
+        "price": 35000,
+        "image": "assets/images/alisan-trai-cay.png"
+      },
+      {
+        "id": "chanh_aiyu_va_tran_chau_trang",
+        "name": "Chanh Aiyu Và Trân Châu Trắng",
+        "price": 35000,
+        "image": "assets/images/Chanh-Aiyu-trân-châu-trắng-2.png"
+      },
+      {
+        "id": "tra_oolong_vai",
+        "name": "Trà Oolong Vải",
+        "price": 35000,
+        "image": "assets/images/Oolong-vải-2.png"
+      },
+      {
+        "id": "dao_hong_man_hat_e",
+        "name": "Đào Hồng Mận Hạt É",
+        "price": 35000,
+        "image": "assets/images/Đào-hồng-mận-hột-é-1.png"
+      },
+      {
+        "id": "tra_alisan_vai",
+        "name": "Trà Alisan Vải",
+        "price": 35000,
+        "image": "assets/images/Alisan-vải-2.png"
+      },
+      {
+        "id": "tra_den_dao",
+        "name": "Trà Đen Đào",
+        "price": 35000,
+        "image": "assets/images/Đen-đào-2.png"
+      },
+      {
+        "id": "tra_xanh_dao",
+        "name": "Trà Xanh Đào",
+        "price": 35000,
+        "image": "assets/images/Xanh-đào-2.png"
+      }
+    ]
+  },
+  {
+    "title": "TRÀ XANH MATCHA",
+    "items": [
+      {
+        "id": "matcha_latte",
+        "name": "Matcha Latte",
+        "price": 40000,
+        "image": "assets/images/Matcha-Tea-Latte-with-Matcha-Jelly.png"
+      },
+      {
+        "id": "matcha_sua_bap",
+        "name": "Matcha Sữa Bắp",
+        "price": 35000,
+        "image": "assets/images/MATCHA-BAP.png"
+      },
+      {
+        "id": "creme_brulee_matcha",
+        "name": "Creme Brulee Matcha",
+        "price": 35000,
+        "image": "assets/images/matcha-creme-brulee.png"
+      },
+      {
+        "id": "cloud_matcha",
+        "name": "Cloud Matcha",
+        "price": 35000,
+        "image": "assets/images/Matcha-Cloud.png"
+      },
+      {
+        "id": "tra_sua_matcha",
+        "name": "Trà Sữa Matcha",
+        "price": 35000,
+        "image": "assets/images/Tra-sua-Matcha.png"
+      }
+    ]
+  }
+]
